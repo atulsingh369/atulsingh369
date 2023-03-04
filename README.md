@@ -1,7 +1,7 @@
 <h1 align="center">👋 Good to have you here!!</h1>
 
-<h2 align="center">I'm Atul Kumar Singh</h2>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center"> I'm Atul Kumar Singh </h1>
+<h2 align="center">A passionate full stack developer from India</h2>
 
 
 
