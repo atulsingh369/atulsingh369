@@ -20,10 +20,11 @@ In addition to my technical skills, I am also an avid reader and enjoy exploring
 
 - 💬 Ask me about **react, node, DBMS**
 
-- 📫 How to reach me **businessatul7684@gmail.com**
+- 📫 How to reach me **atulsinghkumar03690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://codepen.io/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atulsingh369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul-singh-369ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-singh-369ak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21330148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21330148" height="30" width="40" /></a>
