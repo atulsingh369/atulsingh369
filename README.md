@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh369&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh369" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh369" alt="atulsingh369" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh369" alt="atulsingh369" /></a> </p>
+
+<h3 align="left">About</h3>
+<h4 align="left" > As a MERN developer and student of B.Tech in Civil Engineering, I am passionate about combining my technical skills with my love for reading and building networks. With a keen eye for detail and a commitment to innovation, I am constantly seeking new ways to apply my knowledge to real-world problems.
+
+I have developed expertise in building dynamic and responsive web applications using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. My experience in developing and deploying applications has given me a strong understanding of software development life cycles and agile methodologies.
+
+In addition to my technical skills, I am also an avid reader and enjoy exploring new topics through books. </h4>
 
 - 🌱 I’m currently learning **MERN stack**
 
