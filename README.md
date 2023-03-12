@@ -42,7 +42,7 @@ In addition to my technical skills, I am also an avid reader and enjoy exploring
 
 <h3 align="left">Programming Languages:</h3>
 
-<div align="center">
+<div align="center" style = "width: 100%">
   <div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
