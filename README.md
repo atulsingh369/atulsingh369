@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh369&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh369" width="175" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh369" alt="atulsingh369" /></a> </p>
-
-<h3 align="left">About</h3>
-<h4 align="left" > As a MERN developer and student of B.Tech in Civil Engineering, I am passionate about combining my technical skills with my love for reading and building networks. With a keen eye for detail and a commitment to innovation, I am constantly seeking new ways to apply my knowledge to real-world problems.
-
-I have developed expertise in building dynamic and responsive web applications using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. My experience in developing and deploying applications has given me a strong understanding of software development life cycles and agile methodologies.
-
-In addition to my technical skills, I am also an avid reader and enjoy exploring new topics through books. </h4>
 
 - 🔭 I’m currently working on [E-Commerce App](https://github.com/atulsingh369/E-Commerce)
 
@@ -126,6 +118,8 @@ In addition to my technical skills, I am also an avid reader and enjoy exploring
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh369" alt="atulsingh369" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulsingh369&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="atulsingh369" /></p>
 
