@@ -3,16 +3,18 @@
 <h1 align="center"> I'm Atul Kumar Singh </h1>
 <h2 align="center">A passionate full stack developer from India</h2>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=atulsingh369&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh369" width="175" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=atulsingh369&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh369" width="165" /> </p>
 
 
 - 🔭 I’m currently working on [E-Commerce App](https://github.com/atulsingh369/E-Commerce)
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atulsingh369?tab=repositories](https://github.com/atulsingh369?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/atulsingh369?tab=repositories)
 
-- 💬 Ask me about **react, node, DBMS**
+- 📄 Know about my Experience at [Resume](https://drive.google.com/file/d/1HDJ7rz9RtXLNpRhsvoh_bEtIfff2BZLO/view?usp=share_link)
+
+- 💬 Ask me about **Reactjs, Node.js, DBMS**
 
 - 📫 How to reach me **atulsinghkumar03690@gmail.com**
 
