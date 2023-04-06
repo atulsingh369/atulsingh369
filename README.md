@@ -84,7 +84,8 @@
 <h3 align="left">Backend as a Service(BaaS):</h3>
 
 <p align="left">
-
+  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
 
 </p>
