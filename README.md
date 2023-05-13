@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently working on [E-Commerce App](https://github.com/atulsingh369/E-Commerce)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **BaaS**
 
 - 👨‍💻 All of my projects are available at [Github Repo](https://github.com/atulsingh369?tab=repositories)
 
-- 📄 Know about my Experience at [Resume](https://drive.google.com/file/d/1HDJ7rz9RtXLNpRhsvoh_bEtIfff2BZLO/view?usp=share_link)
-
 - 💬 Ask me about **Reactjs, Node.js, DBMS**
 
-- 📫 How to reach me **atulsinghkumar03690@gmail.com**
+- 📫 How to reach me **atulsingh.0369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
