@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://codepen.io/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atulsingh369" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/atul-singh-369ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-singh-369ak" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-singh-369ak" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/21330148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21330148" height="40" width="50" /></a>
 <a href="https://fb.com/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atulsingh369" height="40" width="50" /></a>
 <a href="https://instagram.com/_atul_0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atul_0369" height="40" width="50" /></a>
