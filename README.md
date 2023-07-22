@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **atulsingh.0369@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="middle">Connect with me:</h3>
+<p align="middle">
 
 <a href="https://codepen.io/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atulsingh369" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/atulsingh369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-singh-369ak" height="40" width="50" /></a>
