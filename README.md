@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/businessatul7684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="businessatul7684" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/atul_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atul_369" height="40" width="50" /></a>
 <a href="https://www.hackerearth.com/@atul1478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@atul1478" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/businessatul7684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="businessatul7684" height="40" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/atulsingh369/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atulsingh369" height="40" width="50" /></a>
 
 </p>
 
