@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **BaaS**
 
-- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/atulsingh369?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://atulsingh369.netlify.app/)
 
 - 💬 Ask me about **Reactjs, Node.js, DBMS**
 
