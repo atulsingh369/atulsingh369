@@ -13,6 +13,7 @@ Results-driven Software Engineer with 1.5 years of experience in full-stack deve
 *   🧠  I'm learning MLOps
 *   🤝  I'm open to collaborating on AI/ML Projects and projects imacting real world problems
 *   ⚡  I'm secetly a workoholic..but rather keep it a secret..
+*   👨🏻 Visit my Other profiles at [All Profiles](https://linktr.ee/atulsingh369)
 
 <a href="https://www.github.com/atulsingh369" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/atulsingh369?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
