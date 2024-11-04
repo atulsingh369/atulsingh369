@@ -115,11 +115,10 @@ Results-driven Software Engineer with 1.5 years of experience in full-stack deve
 
 <p><b>My GitHub Stats</b></p>
 <div>
-<a
+<a align="left"
                       href="http://www.github.com/atulsingh369"><img src="https://github-readme-stats.vercel.app/api?username=atulsingh369&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="atulsingh369's GitHub stats" /></a>
-  </div>
-  <div>
-<a href="https://github.com/atulsingh369" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh369&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 
+<a align="right" href="https://github.com/atulsingh369" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh369&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     </div>
     <p>
 <b>Top Repositories</b>
