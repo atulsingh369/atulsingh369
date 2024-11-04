@@ -10,7 +10,7 @@ Results-driven Software Engineer with 1.5 years of experience in full-stack deve
 *   🌍  I'm based in Lucknow, UP, IN
 *   🖥️  See my portfolio at [My Portfolio](http://atulsingh369.netlify.app/)
 *   ✉️  You can contact me at [atulsingh.0369@gmail.com](mailto:atulsingh.0369@gmail.com)
-*   🧠  I'm learning MLOps Engineering
+*   🧠  I'm learning MLOps
 *   🤝  I'm open to collaborating on AI/ML Projects and projects imacting real world problems
 *   ⚡  I'm secetly a workoholic..but rather keep it a secret..
 
@@ -110,9 +110,21 @@ Results-driven Software Engineer with 1.5 years of experience in full-stack deve
                     </a>
 </p>
 ### Badges
-<b>My GitHub Stats</b>
+
+<p><b>My GitHub Stats</b></p>
+<div>
 <a
                       href="http://www.github.com/atulsingh369"><img src="https://github-readme-stats.vercel.app/api?username=atulsingh369&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="atulsingh369's GitHub stats" /></a>
+  </div>
+  <div>
 <a href="https://github.com/atulsingh369" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh369&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </div>
+    <p>
 <b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/atulsingh369/RaagBeats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulsingh369&repo=RaagBeats&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/atulsingh369"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
+      </p>
+<div width="100%" align="center"><a href="https://github.com/atulsingh369/RaagBeats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=atulsingh369&repo=RaagBeats&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/atulsingh369"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
