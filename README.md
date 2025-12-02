@@ -29,6 +29,20 @@ Autonomous workflow that generates personalized storytelling-style LinkedIn post
 
 ---
 
+#### AI X Auto Posting Agent — RAG-Powered Thread Generation & Auto-Publish
+Autonomous workflow that converts topic input into multi-tweet thread posting on X (Twitter) with reply chaining, RAG identity memory, and real-time continuation state.
+
+• Multi-tweet thread generator using Pinecone RAG memory
+• Multi-model reasoning with OpenAI + fallback routing
+• External research integration via SerpAPI + Brave search
+• Automatic reply-chain posting with thread state persistence
+• Topic → Thread JSON → Publish via X API → Save ID → Auto-continue
+
+⚡ Impact: Zero manual thread writing, high engagement emotional storytelling
+🔗 Repo: https://github.com/atulsingh369/ai-x-auto-thread-agent
+
+---
+
 #### AI Agent Messaging System — Automated Outreach Engine
 Automated messaging engine for Reddit/LinkedIn outreach with real-time memory and adaptive personalization.
 
@@ -39,18 +53,6 @@ Automated messaging engine for Reddit/LinkedIn outreach with real-time memory an
 
 🚀 Result: 4.5x increase in reply rate, 10x faster qualification time  
 🔗 Repo: <link> | 🎥 Demo: <link> | 📘 Architecture Diagram: <link>
-
----
-
-#### ArcReactor — AI Behavioral Recording & Autonomous Execution
-Real-time context recording engine driving autonomous workflow execution across distributed systems.
-
-• Event tracing & action scheduler for automated task execution  
-• Vector embeddings for semantic memory  
-• Modular microservices architecture using Kafka streaming
-
-📈 Running production-grade workflows across distributed environments  
-🔗 Repo: <link> | 📘 Architecture Diagram: <link>
 
 ---
 
