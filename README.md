@@ -66,8 +66,7 @@ Analytics platform processing GitHub event streams into performance visualizatio
 
 ---
 ### Proof of Work
-Screenshots, architecture diagrams & demo videos  
-<images / gif section>
+Check repo README for architecture diagrams, screenshots & workflow previews.
 
 ---
 ### Philosophy
