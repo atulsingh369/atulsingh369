@@ -32,14 +32,14 @@ Autonomous workflow that generates personalized storytelling-style LinkedIn post
 #### AI X Auto Posting Agent — RAG-Powered Thread Generation & Auto-Publish
 Autonomous workflow that converts topic input into multi-tweet thread posting on X (Twitter) with reply chaining, RAG identity memory, and real-time continuation state.
 
-• Multi-tweet thread generator using Pinecone RAG memory
-• Multi-model reasoning with OpenAI + fallback routing
-• External research integration via SerpAPI + Brave search
-• Automatic reply-chain posting with thread state persistence
-• Topic → Thread JSON → Publish via X API → Save ID → Auto-continue
+• Multi-tweet thread generator using Pinecone RAG memory  
+• Multi-model reasoning with OpenAI + fallback routing  
+• External research integration via SerpAPI + Brave search  
+• Automatic reply-chain posting with thread state persistence  
+• Topic → Thread JSON → Publish via X API → Save ID → Auto-continue  
 
-⚡ Impact: Zero manual thread writing, high engagement emotional storytelling
-🔗 Repo: https://github.com/atulsingh369/ai-x-auto-thread-agent
+⚡ Impact: Zero manual thread writing, high engagement emotional storytelling  
+🔗 Repo: https://github.com/atulsingh369/ai-x-auto-thread-agent  
 
 ---
 
