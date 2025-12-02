@@ -15,6 +15,19 @@ I move fast: from concept → production deployment with scalable backend infras
 
 ---
 
+#### AI LinkedIn Auto Posting Agent — RAG-Based Content Generation & Auto-Publish
+Autonomous workflow that generates personalized storytelling-style LinkedIn posts using RAG memory, external research tools, cinematic image generation, and direct publishing via LinkedIn API.
+
+• RAG memory using Pinecone namespaces for style, strategy, identity & real stories  
+• Multi-model agent orchestration with OpenAI, Cohere Rerank, SerpAPI & Brave Search  
+• Gemini 2.5 Flash cinematic image creation synced to narrative theme  
+• Automatic posting with LinkedIn OAuth pipeline  
+• Fully automated: topic → RAG → post → image → publish
+
+🚀 Impact: Eliminates 1–2 hours of writing daily and automates 10–15 posts/week  
+🔗 Repo: https://github.com/atulsingh369/ai-linkedin-auto-posting-agent
+
+---
 
 #### AI Agent Messaging System — Automated Outreach Engine
 Automated messaging engine for Reddit/LinkedIn outreach with real-time memory and adaptive personalization.
