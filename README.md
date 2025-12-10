@@ -75,5 +75,5 @@ Cloud & Infra: AWS, GCP, Firebase, Vercel, Docker, CI/CD
 Looking to collaborate on AI agent products, automation systems, analytics, infra scaling.
 
 📩 Email — atulsingh.0369@gmail.com  
-🔗 LinkedIn — linkedin.com/in/atulsingh369
+🔗 LinkedIn — linkedin.com/in/atulsingh369  
 👉 Portfolio - https://atulsingh369.netlify.app
