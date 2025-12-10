@@ -1,36 +1,36 @@
-# Atul Singh — Full-Stack Engineer & AI Automation Architect
+# Atul Singh — Full-Stack Engineer & AI Automation Architect  
 
-I architect autonomous AI systems that turn manual workflows into self-operating pipelines with real business outcomes. 
-I move fast: from concept → production deployment with scalable backend infrastructure.
+I build autonomous AI systems and high-performance web applications that convert manual workflows into fully automated, production-grade platforms.  
+I move fast: concept → architecture → deployment with scalable infrastructure.  
 
 ---
 ### What I work on
 
-• AI agent systems with real-time memory, retrieval & decision execution  
-• LLM workflow orchestration and distributed semantic indexing  
-• End-to-end product builds from 0 → production
+• AI agent systems with long-term memory, retrieval, and real-time decision execution    
+• Distributed RAG pipelines, workflow automation, and multi-agent orchestration    
+• Full-stack product engineering from 0 → production (Next.js, Firebase, FastAPI)  
 
 ---
 ### Selected Projects
 
 ---
 
-#### AI LinkedIn Auto Posting Agent — RAG-Based Content Generation & Auto-Publish
-Autonomous workflow that generates personalized storytelling-style LinkedIn posts using RAG memory, external research tools, cinematic image generation, and direct publishing via LinkedIn API.
+#### AI LinkedIn Auto Posting Agent — RAG-Based Content Generation & Auto-Publish  
+Autonomous workflow that generates personalized storytelling-style LinkedIn posts using RAG memory, external research tools, cinematic image generation, and direct publishing via LinkedIn API.  
 
 • RAG memory using Pinecone namespaces for style, strategy, identity & real stories  
 • Multi-model agent orchestration with OpenAI, Cohere Rerank, SerpAPI & Brave Search  
 • Gemini 2.5 Flash cinematic image creation synced to narrative theme  
-• Automatic posting with LinkedIn OAuth pipeline  
-• Fully automated: topic → RAG → post → image → publish
+• Automatic posting with LinkedIn OAuth pipeline   
+• Fully automated: topic → RAG → post → image → publish  
 
-🚀 Impact: Eliminates 1–2 hours of writing daily and automates 10–15 posts/week  
-🔗 Repo: https://github.com/atulsingh369/ai-linkedin-auto-posting-agent
+⚡ Impact: Eliminates 1–2 hours of writing daily and automates 10–15 posts/week   
+🔗 Repo: https://github.com/atulsingh369/ai-linkedin-auto-posting-agent  
 
 ---
 
 #### AI X Auto Posting Agent — RAG-Powered Thread Generation & Auto-Publish
-Autonomous workflow that converts topic input into multi-tweet thread posting on X (Twitter) with reply chaining, RAG identity memory, and real-time continuation state.
+Autonomous workflow that converts topic input into multi-tweet thread posting on X (Twitter) with reply chaining, RAG identity memory, and real-time continuation state.  
 
 • Multi-tweet thread generator using Pinecone RAG memory  
 • Multi-model reasoning with OpenAI + fallback routing  
@@ -43,32 +43,20 @@ Autonomous workflow that converts topic input into multi-tweet thread posting on
 
 ---
 
-#### AI Agent Messaging System — Automated Outreach Engine
-Automated messaging engine for Reddit/LinkedIn outreach with real-time memory and adaptive personalization.
+#### E-CommerceOS — AI-Powered Commerce Engine (Next.js + Firebase + AI)  
+A modern, production-ready eCommerce platform built for speed, scalability, and AI-driven product discovery. Built as a client showcase to demonstrate end-to-end engineering.  
 
-• Multi-channel integration + transformer-based text synthesis  
-• Vector search using Pinecone for conversation memory and ranking  
-• n8n workflow automation for lead routing, scoring & context mapping  
-• Telegram interface for human-in-the-loop overrides
+• Next.js 14 App Router + server components + Framer Motion UI  
+• Firestore real-time product DB with dynamic categories & filtering  
+• AI shopping assistant with semantic product search + comparison engine  
+• End-to-end product pages, cart, category architecture, SEO-ready  
 
-🚀 Result: 4.5x increase in reply rate, 10x faster qualification time  
-🔗 Repo: <link> | 🎥 Demo: <link> | 📘 Architecture Diagram: <link>
-
----
-
-#### GitHub Activity Intelligence Dashboard
-Analytics platform processing GitHub event streams into performance visualizations.
-
-• Kafka stream ingestion for real-time GitHub events  
-• Time-series insights, commit clustering & interactive dashboards  
-• Next.js + WebSockets for live visualization
-
-📊 Turns raw commit data into performance trends  
-🔗 Repo: <link> | 🎥 Demo: <link>
+⚡ Impact: Turns any small business into a modern online store in minutes, increasing lead-to-sale rate by up to 3× with AI search, recommendations, and conversion-optimized UI.  
+✨ Live Demo: https://ecom-devstudios.vercel.app  
 
 ---
 ### Proof of Work
-Check repo README for architecture diagrams, screenshots & workflow previews.
+Each repository includes architecture diagrams, workflow breakdowns, previews, and technical notes.
 
 ---
 ### Philosophy
