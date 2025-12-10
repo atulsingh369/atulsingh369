@@ -66,9 +66,9 @@ Each repository includes architecture diagrams, workflow breakdowns, previews, a
 ---
 ### Tech Focus
 AI Systems: LLM orchestration, RAG, embedding pipelines, vector DBs  
-Backend: Node, FastAPI, Kafka, Docker, Microservices  
-Frontend: Next.js, React  
-Cloud & DevOps: AWS, GCP, Vercel, Docker, CI/CD
+Backend: Node, FastAPI, Kafka, Redis, Microservices  
+Frontend: Next.js, React, Tailwind  
+Cloud & Infra: AWS, GCP, Firebase, Vercel, Docker, CI/CD  
 
 ---
 ### Let’s Build
@@ -76,3 +76,4 @@ Looking to collaborate on AI agent products, automation systems, analytics, infr
 
 📩 Email — atulsingh.0369@gmail.com  
 🔗 LinkedIn — linkedin.com/in/atulsingh369
+👉 Portfolio - https://atulsingh369.netlify.app
