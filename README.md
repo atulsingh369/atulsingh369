@@ -76,4 +76,4 @@ Looking to collaborate on AI agent products, automation systems, analytics, infr
 
 📩 Email — [atulsingh.0369@gmail.com](mailto:atulsingh.0369@gmail.com)  
 🔗 LinkedIn — [linkedin.com/in/atulsingh369](https://www.linkedin.com/in/atulsingh369)  
-👉 Portfolio - [atulsingh369.netlify.app](https://atulsingh369.netlify.app)  
+👉 Portfolio - [atulsinghdev](https://atulsinghdev.vercel.app)  
