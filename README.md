@@ -84,6 +84,6 @@ Each repository includes architecture diagrams, workflow breakdowns, previews, a
 ### Let’s Build
 Looking to collaborate on AI agent products, automation systems, analytics, and infra scaling.
 
-📩 Email — [atul@onyxiq.in](mailto:atul@onyxiq.in)
+📩 Email — [atul@onyxiq.in](mailto:atul@onyxiq.in)  
 🔗 LinkedIn — [linkedin.com/in/atulsingh369](https://www.linkedin.com/in/atulsingh369)  
-👉 Portfolio - [onyxiq.in](https://onyxiq.in)
+👉 Portfolio - [onyxiq.in](https://onyxiq.in)  
